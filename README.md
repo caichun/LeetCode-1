@@ -1,8 +1,8 @@
 # leetcode
 使用python刷leetcode题目，包含思路的简单描述和代码，不定时更新
 
-##### 1. [longestPalindromeSubstring](https://github.com/SherlockUnknowEn/leetcode/tree/master/1-9/1.%20longestPalindromeSubstring(Medium)) 查找字符串中最长回文
-##### 2. [findMidianSortedArrays](https://github.com/SherlockUnknowEn/leetcode/tree/master/1-9/2.%20findMidianSortedArrays(Hard)) 查找两个已排序数组的中位数
+##### 1. [longestPalindromeSubstring](1-9/1.%20longestPalindromeSubstring(Medium)) 查找字符串中最长回文
+##### 2. [findMidianSortedArrays](1-9/2.%20findMidianSortedArrays(Hard)) 查找两个已排序数组的中位数
 ##### 3. [longestSubstringWithoutRepeating](https://github.com/SherlockUnknowEn/leetcode/tree/master/1-9/3.%20longestSubstringWithoutRepeating(Medium)) 查找字符串中的最长不重复子串的长度
 ##### 4. [stringTointeger(atio)](https://github.com/SherlockUnknowEn/leetcode/tree/master/1-9/4.%20stringToInteger(atio)(Medium)) 手动实现atio函数，转换str到int
 ##### 5. [palindrome Number](https://github.com/SherlockUnknowEn/leetcode/tree/master/1-9/5.%20palindromeNumber(Easy)) 判断一个整数是否为回文数，不使用额外变量
